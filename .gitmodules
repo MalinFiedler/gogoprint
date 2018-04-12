@@ -1,0 +1,4 @@
+[submodule "MalinFiedler/MagentoConnector"]
+	path = MalinFiedler/MagentoConnector
+	url = git@github.com:MalinFiedler/MagentoConnector.git
+	branch = master
